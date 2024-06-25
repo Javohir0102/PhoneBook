@@ -42,5 +42,16 @@ ProneBook app is organized three classes
     }
 4. **ContactSevice.cs** involves all importent methods for instance `AddContact()`, `DeleteContact()`, `CheckValideIndex()` and `ShowAllDates()`.
    - AddContact()
-   
+     ![](https://github.com/Javohir0102/PhoneBook/blob/master/PhoneBook/Asset/AddContact.png)
 
+   - DeleteContact()
+     ![](https://github.com/Javohir0102/PhoneBook/blob/master/PhoneBook/Asset/DeleteContact().png)
+
+   - CheckValidIndex()
+     ![](https://github.com/Javohir0102/PhoneBook/blob/master/PhoneBook/Asset/CheckValideIndex().png)
+
+   - ShowAllDates()
+     ![](https://github.com/Javohir0102/PhoneBook/blob/master/PhoneBook/Asset/ShowAllDates().png)
+
+
+Note: You are in **Version 1** now.
