@@ -11,10 +11,7 @@ namespace PhoneBook
         {
             ContactService contactService = new ContactService();
             contactService.PopulateContacts();
-            contactService.AddContact();
-            //contactService.CheckValideIndex();
-            contactService.ShowAllDates();
-            
+            contactService.ShowMenu();         
         }
     }
 }
